@@ -2,6 +2,10 @@
 
 > A beginner-to-intermediate Machine Learning web application that predicts whether a student will perform at **Low**, **Medium**, or **High** level — built with Python, Scikit-learn, Streamlit, and Plotly.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://student-performance-predictor-wrjyumqbfuuefxf67xbzxk.streamlit.app/)
+
+🔗 **[https://student-performance-predictor-wrjyumqbfuuefxf67xbzxk.streamlit.app/](https://student-performance-predictor-wrjyumqbfuuefxf67xbzxk.streamlit.app/)**
+
 ---
 
 ## ✨ Features
