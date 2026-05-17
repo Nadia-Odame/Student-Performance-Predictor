@@ -493,7 +493,7 @@ with tab4:
         return f"background-color: {c.get(val, '')}; color: {P['text']}"
 
     st.dataframe(
-        df.head(50).style.applymap(highlight_perf, subset=["performance"]),
+        df.head(50).style.map(highlight_perf, subset=["performance"]),
         use_container_width=True,
         height=380,
     )
